@@ -1,2 +1,2 @@
-# Copybin-React-project
+# Copybin
 Created with CodeSandbox
